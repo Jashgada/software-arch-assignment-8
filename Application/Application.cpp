@@ -9,7 +9,7 @@ CoolClass::CoolClass(void)
 {
 }
 
-int Coollass::Calc(int a, int b)
+int CoolClass::Calc(int a, int b)
 {
     if (a == b)
     {
